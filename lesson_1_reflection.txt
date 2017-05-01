@@ -1,0 +1,36 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+   I had a lot less information to sift through.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Makes recovering from a typo much quicker so I can spend less time recovering from typos. Also, I can reintroduce changes a little at a time so I can see where problems are being introduced.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    In GIT I get to choose when I save a version so I know what I have. With an auto save, I'm not sure what I have when going to an older version. So I have to try different versions until I find one that doesn't have the problem. On the other hand, I can lose a lot of code if I don't save often enough.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    GIT potentially saves time by saving all files necessary for a particular application so I can be sure I can get back to a good point on all the needed files vs having some that may be needed potentially having issues.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I know I can always go back to a working system.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	If something is broken but was working in an older version I could always go back to anolder version to find one that works. 
+
+	If a bug didn't show up immediately, I could always go back to an older version and check where it stopped working or see if it ever worked properly.
